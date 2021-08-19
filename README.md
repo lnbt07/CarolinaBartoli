@@ -30,5 +30,8 @@
 
 <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/carolinabartoli/">
-   <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+   <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>   
+      
+   <a href="https://twitter.com/lnbt07">
+   <img align="center" alt="twitter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
 <div>
