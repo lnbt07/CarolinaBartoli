@@ -2,7 +2,7 @@
 
 - 👩‍💻 Cursando Sistemas de Informação na FIAP;
 - 🔭 Trabalhando com monitoração técnica;
-- 🌱 Estudando Java e Kotlin;
+- 🌱 Estudando Java, Banco de dados Oracle e Kotlin;
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
 
 ##
