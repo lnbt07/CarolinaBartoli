@@ -3,6 +3,7 @@
 - 👩‍💻 Cursando Sistemas de Informação na FIAP;
 - 🔭 Trabalhando com monitoração técnica;
 - 🌱 Estudando Java, Banco de dados Oracle e Kotlin;
+- 🎦 As vezes faço live estudando na twitch: https://www.twitch.tv/lnbt07;
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
 
 ##
