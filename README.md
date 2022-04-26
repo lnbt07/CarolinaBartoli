@@ -2,7 +2,7 @@
 
 - 👩‍💻 Cursando Sistemas de Informação na FIAP;
 - 🔭 Estagiando na Raccoon.Monks com Web/Mobile Tracking;
-- 🌱 Estudando Javascript, Kotlin e Swift;
+- 🌱 Estudando Java, Kotlin e Swift;
 - 🎦 As vezes faço live estudando na twitch: https://www.twitch.tv/lnbt07;
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
 
