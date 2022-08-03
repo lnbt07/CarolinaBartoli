@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou a Carolina Bartoli!
 
 - 👩‍💻 Cursando Sistemas de Informação na FIAP;
-- 🔭 Estagiando na Raccoon.Monks com Web/Mobile Tracking;
-- 🌱 Estudando Java, Kotlin e Swift;
+- 🔭 Desenvolvedora Java Backend Junior na @CI&T
+- 🌱 Estudando Java Backend, Kotlin para Android, Swift para iOS e C# para Unity;
 - 🎦 As vezes faço live estudando na twitch: https://www.twitch.tv/lnbt07;
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
 
@@ -25,6 +25,7 @@
   <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
 <div><br>
 
 ## 💻 Onde me encontrar
