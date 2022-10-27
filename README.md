@@ -26,6 +26,7 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 <div><br>
 
 ## 💻 Onde me encontrar
