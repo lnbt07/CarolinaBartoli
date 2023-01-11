@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou a Carolina Bartoli!
 
-- 👩‍💻 Cursando Sistemas de Informação na FIAP;
-- 🔭 Desenvolvedora Backend Junior na CI&T
+- 👩‍💻 Bacharel em Sistemas de Informação pela FIAP;
+- 🔭 Desenvolvedora Backend Junior na CI&T;
 - 🌱 Estudando Java Backend, Kotlin para Android, Swift para iOS e C# para Unity;
 - 🎦 As vezes faço live estudando na twitch: https://www.twitch.tv/lnbt07;
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
