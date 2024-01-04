@@ -3,7 +3,7 @@
 - 👩‍💻 Bacharel em Sistemas de Informação pela FIAP;
 - 🔭 Desenvolvedora Java Backend Junior na Cielo;
 - 🌱 Estudando Java Backend, Kotlin para Android, Python para IA|Machine Learning|Visão Computacional e C# para Unity;
-- 🎦 As vezes faço live estudando ou jogando na twitch: https://www.twitch.tv/lnbt07;
+- 🎦 As vezes faço live estudando ou jogando na twitch: [https://www.twitch.tv/](https://www.twitch.tv/elentiya0708);
 - 📫 Fale comigo através do e-mail: carolina.bartoli01@gmail.com;
 
 ##
