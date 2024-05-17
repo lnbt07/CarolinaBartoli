@@ -6,7 +6,7 @@
 - 🌱 Studying Java Backend, Kotlin for Android, Python for AI|Machine Learning|Computational Vision and C# for Unity;
 - 📫 Contact me by e-mail: carolina.bartoli01@gmail.com;
 
-## How Am I Doing Lately
+## 🌐 How Am I Doing Lately
 
 <div>
    <a href="https://github.com/lnbt07">
