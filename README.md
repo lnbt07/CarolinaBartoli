@@ -2,7 +2,7 @@
 
 - 👩‍💻 Bachelor in Information Systems from FIAP;
 - 🗃️ Management Technician at ETEC Professor Horácio Augusto da Silveira;
-- 🔭 Junior Developer at Cielo with Java, Angular, Node.js and Typescript;
+- 🔭 Mid Level Software Engineer at Cielo using Java, Angular, Node.js and Typescript;
 - 🌱 Studying Java Backend, Kotlin for Android, Python for AI|Machine Learning|Computational Vision and C# for Unity;
 - 📫 Contact me by e-mail: carolina.bartoli01@gmail.com;
 
